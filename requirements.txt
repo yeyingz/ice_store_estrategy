@@ -1,0 +1,5 @@
+# Lirerías necesarias para el proyecto
+pandas
+matplotlib
+seaborn
+scipy
