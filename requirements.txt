@@ -1,0 +1,6 @@
+# Lirerías necesarias para el proyecto
+python >=3.8
+pandas
+matplotlib
+seaborn
+scipy

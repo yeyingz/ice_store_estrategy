@@ -1,0 +1,25 @@
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb-checkpoint
+
+# Archivos de datos grandes o generados
+# Considera no subir archivos de datos muy grandes para mantener el repositorio ligero.
+# Si el archivo CSV puede ser recreado o es accesible públicamente,
+# es mejor no incluirlo en el repositorio. Si es un archivo de origen único y esencial,
+# puedes omitir esta línea.
+# games.csv
+
+# Archivos de Microsoft Office
+# Aunque tu .docx es parte del proyecto, a menudo es mejor
+# convertir la información importante a un formato compatible con Git, como Markdown.
+# Si no quieres rastrear cambios en el archivo binario, puedes ignorarlo.
+*.docx
+*.doc
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# Archivos temporales y de sistema
+.DS_Store
+Thumbs.db
