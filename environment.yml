@@ -1,0 +1,9 @@
+name: proyecto-ice-store
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
